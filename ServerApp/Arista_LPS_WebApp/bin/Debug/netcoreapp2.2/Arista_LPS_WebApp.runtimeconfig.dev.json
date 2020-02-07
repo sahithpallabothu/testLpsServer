@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Saiteja.CSIPL\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Saiteja.CSIPL\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
